@@ -489,7 +489,7 @@ li a:hover {
 /* projects */
 #projects {
   width: 100%;
-  height: 80vh;
+  height: 120vh;
   background-color: black;
   position: relative;
   text-align: center;
@@ -502,7 +502,7 @@ li a:hover {
 }
 .projects-container {
   width: 100%;
-  height: 50%;
+  height: 100%;
   z-index: 1;
   position: absolute;
   top: 27%;
