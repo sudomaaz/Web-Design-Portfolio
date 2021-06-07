@@ -441,23 +441,13 @@ li a:hover {
   }
 }
 
-.li.js:after {
-  animation-name: js;
-}
-
-@keyframes js {
-  to {
-    width: 75%;
-  }
-}
-
 .li.ng:after {
   animation-name: ng;
 }
 
 @keyframes ng {
   to {
-    width: 60%;
+    width: 80%;
   }
 }
 .svg10 {
