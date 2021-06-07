@@ -505,7 +505,7 @@ li a:hover {
   height: 100%;
   z-index: 1;
   position: absolute;
-  top: 20%;
+  top: 27%;
   left: 0;
 }
 .project {
@@ -522,8 +522,8 @@ li a:hover {
 }
 .pos2 {
   position: absolute;
-  bottom: 10%;
-  left: 43.5%;
+  bottom: 20%;
+  left: 75%;
 }
 .svg8 {
   position: absolute;
