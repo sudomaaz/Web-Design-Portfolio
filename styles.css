@@ -414,42 +414,36 @@ li a:hover {
 .li.html:after {
   animation-name: html;
 }
-
 @keyframes html {
   to {
     width: 75%;
   }
 }
-
 .li.node:after {
   animation-name: node;
 }
-
 @keyframes node {
   to {
     width: 90%;
   }
 }
-
 .li.mongo:after {
   animation-name: mongo;
 }
-
 @keyframes mongo {
   to {
     width: 70%;
   }
 }
-
 .li.ng:after {
   animation-name: ng;
 }
-
 @keyframes ng {
   to {
     width: 80%;
   }
 }
+
 .svg10 {
   position: absolute;
   top: 50%;
