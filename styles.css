@@ -489,7 +489,7 @@ li a:hover {
 /* projects */
 #projects {
   width: 100%;
-  height: 130vh;
+  height: 80vh;
   background-color: black;
   position: relative;
   text-align: center;
@@ -509,9 +509,9 @@ li a:hover {
   left: 0;
 }
 .project {
-  width: 30%;
+  width: 20%;
   height: 50%;
-  padding: 0px 20px;
+  padding: 0px 10px;
   display: inline-block;
   text-align: center;
 }
@@ -843,7 +843,7 @@ li a:hover {
     height: 90%;
   }
   #projects {
-    height: 130vh;
+    height: 115vh;
   }
   .svg8 {
     width: 400px;
@@ -883,7 +883,7 @@ li a:hover {
   .project {
     display: block;
     width: 100%;
-    height: 20%;
+    height: 50%;
     padding: 0;
   }
   .pro-img {
