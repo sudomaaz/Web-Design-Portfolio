@@ -489,7 +489,7 @@ li a:hover {
 /* projects */
 #projects {
   width: 100%;
-  height: 100vh;
+  height: 130vh;
   background-color: black;
   position: relative;
   text-align: center;
@@ -510,7 +510,7 @@ li a:hover {
 }
 .project {
   width: 30%;
-  height: 100%;
+  height: 50%;
   padding: 0px 20px;
   display: inline-block;
   text-align: center;
@@ -883,7 +883,7 @@ li a:hover {
   .project {
     display: block;
     width: 100%;
-    height: 50%;
+    height: 20%;
     padding: 0;
   }
   .pro-img {
