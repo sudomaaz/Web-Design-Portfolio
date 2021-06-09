@@ -343,6 +343,12 @@ li a:hover {
   top: 5%;
   left: 15%;
 }
+.mern {
+  width: 45%;
+  position: absolute;
+  top: 27%;
+  left: 15%;
+}
 .h4 {
   padding: 0;
   line-height: 0;
@@ -784,7 +790,7 @@ li a:hover {
     height: 140vh;
   }
   .experience {
-    top: 70%;
+    top: 80%;
     left: 13%;
     width: 80%;
   }
@@ -828,6 +834,12 @@ li a:hover {
     top: 43%;
     left: 13%;
     width: 70%;
+  }
+  .mern {
+    width: 80%;
+    position: absolute;
+    top: 63%;
+    left: 13%;
   }
   .h4 {
     font-size: 50px;
@@ -885,6 +897,7 @@ li a:hover {
     height: 350px;
   }
   .pos2 {
+    position: absolute;
     bottom: 3%;
     left: 30%;
   }
