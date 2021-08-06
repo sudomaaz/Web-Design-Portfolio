@@ -1,2 +1,3 @@
 # Web-Design-Portfolio
-A Web Design, UI/UX Design Portfolio Template. 
+
+A Web Design and UI/UX Design Portfolio Template.
